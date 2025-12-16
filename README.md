@@ -16,7 +16,7 @@
 
 ## 📲 Screen Gif
 
-![](Navigation-1.gif)
+![](StackNavigator.gif)
 
 
 
